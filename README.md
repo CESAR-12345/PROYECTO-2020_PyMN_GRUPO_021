@@ -22,10 +22,10 @@
   - PRÁCTICA-3: Estructuras repetitivas.
   - PRÁCTICA-4: Funciones, arreglos y matrices.
   
-  #### UNIDAD II:
+ #### UNIDAD II:
 
 * _Introducción a métodos numéricos._
-  - PRÁCTICA-5:  Métodos cerrados
+  - PRÁCTICA-5: Métodos cerrados
   - PRÁCTICA-6: Métodos abiertos
 
 #### UNIDAD IV:
