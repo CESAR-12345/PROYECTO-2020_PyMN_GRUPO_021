@@ -25,17 +25,17 @@
  #### UNIDAD II:
 
 * _Introducción a métodos numéricos._
-  - PRÁCTICA-5: Métodos cerrados
-  - PRÁCTICA-6: Métodos abiertos
+  - PRÁCTICA-5: Métodos cerrados: de la bisección y de la falsa posición.
+  - PRÁCTICA-6: Métodos de Newton-Raphson y de la secante.
 
 #### UNIDAD IV:
 * _Integración y diferenciación numérica._
-  - PRÁCTICA-10: Derivación numérica
+  - PRÁCTICA-10: Derivación numérica.
 #### UNIDAD V:
 * _Solución a los sistemas de ecuaciones lineales._
   - PRÁCTICA-11: Métodos de ecuaciones lineales.
   
-**Elaborado por CESAR GENARO RUIZ DELGADO.**
+**Elaborado por _CESAR GENARO RUIZ DELGADO._**
 
   
   
