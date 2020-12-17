@@ -22,7 +22,7 @@
   - PRÁCTICA-3: [Estructuras repetitivas.](https://github.com/CESAR-12345/PROYECTO-2020_PyMN_GRUPO_021/commit/d56b2a1180bff8a1af3b44269121188c0b7bda59)
   - PRÁCTICA-4: [Funciones, arreglos y matrices.](https://github.com/CESAR-12345/PROYECTO-2020_PyMN_GRUPO_021/commit/6009268fb8c14d695757ac003863d062dfeaa324)
   
- #### UNIDAD II:
+#### UNIDAD II:
 
 * _Introducción a métodos numéricos._
   - PRÁCTICA-5: [Métodos cerrados: de la bisección y de la falsa posición.](https://github.com/CESAR-12345/PROYECTO-2020_PyMN_GRUPO_021/commit/330143f9368798f1c23554d032937f5cf6df2587)
@@ -31,6 +31,7 @@
 #### UNIDAD IV:
 * _Integración y diferenciación numérica._
   - PRÁCTICA-10: [Derivación numérica.](https://github.com/CESAR-12345/PROYECTO-2020_PyMN_GRUPO_021/commit/5c47c8d6f172b7b610c621aeb405329be840a6cd)
+  
 #### UNIDAD V:
 * _Solución a los sistemas de ecuaciones lineales._
   - PRÁCTICA-11: [Métodos de ecuaciones lineales.](https://github.com/CESAR-12345/PROYECTO-2020_PyMN_GRUPO_021/commit/92a0977b4b9fd9195ad17de10937cfa31e68dde1)
