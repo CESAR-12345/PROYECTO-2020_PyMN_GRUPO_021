@@ -1,6 +1,6 @@
 # Universidad Autonoma de Baja California.
 
-##PROYECTO-2020_PyMN_GRUPO_021
+##  PROYECTO-2020_PyMN_GRUPO_021
 
 **Proyecto Final Ciclo 2020-2**
 
